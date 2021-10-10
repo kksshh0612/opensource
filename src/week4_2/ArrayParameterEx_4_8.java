@@ -16,7 +16,5 @@ public class ArrayParameterEx_4_8 {
 		printCharArray(c);
 		replaceSpace(c);
 		printCharArray(c);
-
 	}
-
 }
